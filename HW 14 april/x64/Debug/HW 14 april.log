@@ -1,0 +1,3 @@
+﻿  Assembling module.asm...
+module.asm(1): error A2008: syntax error : .
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\module.obj" /W3 /errorReport:prompt  /Tamodule.asm" с кодом "1".
